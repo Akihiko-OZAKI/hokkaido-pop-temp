@@ -1,0 +1,4 @@
+cd H:\AI_study\216_hokkaido-pop-temp
+git add shapefiles/*
+git commit -m "Add Hokkaido shapefiles for heatmap"
+git push
