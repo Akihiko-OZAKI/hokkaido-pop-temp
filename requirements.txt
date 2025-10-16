@@ -4,3 +4,6 @@ pandas
 geopandas
 matplotlib
 gunicorn
+geopandas
+matplotlib
+contextily   # 地図のタイル背景を入れる場合
